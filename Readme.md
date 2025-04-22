@@ -1,3 +1,4 @@
-`sh
-wag mag push sa main
-`
+```sh
+# Reminder:
+# Avoid pushing directly to the main branch.
+```
